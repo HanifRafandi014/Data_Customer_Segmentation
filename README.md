@@ -1,4 +1,4 @@
-# **Customer Segmentation**
+# **Customer Segmentation Project**
 
 ## Project Background
 
